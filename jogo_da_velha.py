@@ -10,7 +10,7 @@ pts_jogador = 0
 pts_pc = 0
 
 while True:
-
+##teste
     j = ''
     primeiro = ''
     p1, p2, p3, p4, p5, p6, p7, p8, p9 = ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '
